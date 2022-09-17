@@ -1,0 +1,29 @@
+/*cascading style sheets*/
+
+/*.bg-green {
+    background-color: green;
+}*/
+
+#num2 {
+    font-size: 36px;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#num3 {
+    font-size: 24px;
+}
+
+.bg-pink {
+    background-color: lightpink;
+}
+
+.oddNum {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
