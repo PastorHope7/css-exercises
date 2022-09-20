@@ -1,0 +1,15 @@
+/*css style*/
+
+.uno {
+    background-color: black;
+    color: white;
+    font-family: Helvetica, "Times New Romans", "sans-serif";
+    font-size: 28px;
+}
+
+.duo {
+    font-family: Helvetica, "Times New Romans", "sans-serif";
+    font-size: 28px;
+    background-color: yellow;
+}
+
